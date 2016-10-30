@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">每日知乎</string>
+
+    <string name="zhihu_daily_today">今日知乎日报 |</string>
+    <string name="network_error">NetWork Error!</string>
+    <string name="not_coming"><![CDATA[这一天还没有来临呢！>_<]]></string>
+    <string name="not_born"><![CDATA[这一天知乎日报还没有诞生呢！>_<]]></string>
+    <string name="pick_date">选择日期</string>
+</resources>
